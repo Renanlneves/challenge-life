@@ -1,0 +1,1 @@
+from app.domain.users.user_model import UserModel
